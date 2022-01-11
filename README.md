@@ -1,6 +1,6 @@
 # [Projeto Escola com React-Redux-Redux Saga - React Hooks]
 
-Usando: </br>
+**Usando: </br>**
 React Router DOM</br>
 Router e History</br>
 React Toastify</br>
